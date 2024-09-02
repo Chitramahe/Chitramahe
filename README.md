@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chitra Jayapalan
-- 👀 I’m interested in Analysis Data
+- 👀 I’m interested in Analysing Data
 - 🌱 I’m currently working as power Bi Consultant in Antillo consulting
 - 💞️ I’m looking for challenging opportunities as Data Analyst
 - 📫 How to reach me chitra.tanjore@gmail.com
